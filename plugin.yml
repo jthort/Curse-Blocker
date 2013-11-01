@@ -1,0 +1,5 @@
+name: Event
+version: 1.0
+main: me.Ian.CurseBlocker.CurseBlocker
+description: 
+    Replays the message.
